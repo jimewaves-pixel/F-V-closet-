@@ -1,0 +1,8 @@
+{
+  "name": "F&V closet",
+  "description": "Bold, modern urban streetwear storefront based in Ghana. Premium streetwear for those who move with intention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
